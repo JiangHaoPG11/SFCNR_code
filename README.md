@@ -1,4 +1,4 @@
-# RCENR_code
+# SFCNR_code
 This repository is for the cold-start news recommendation which is accepted in CIKM 2023:
 
 Self-supervised Contrastive Enhancement with Symmetric Few-shot Learning Towers for Cold-start News Recommendation.
